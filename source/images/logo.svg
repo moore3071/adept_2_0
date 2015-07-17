@@ -1,0 +1,65 @@
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0,0,431,100">
+
+			<!-- The A -->
+
+						<!-- Left base -->
+
+										<polygon points="0, 100 38, 100 44.3, 83.3 25, 50.3" style="fill: #00A000"/>
+
+						<!-- Recycle -->
+
+										<!-- Bottom Left: Stub then arrow -->
+
+													<path d="M68, 58.3 v17  h-23 c-.5,.05 -.5,.05 -2,-1.9 l-10,-17.1 c-.5,.5 3.5,2.5 4,2Z" style="fill: #00A000"/>
+
+													<path d="M28.3,30 l5,5 l-5,6.7 c-4,4 3,15 8.4,15 h8.3 l4.2735,-5.7265 l5,5 l-5,-22 Z" style="fill: #00A000"/>
+
+										<!-- Top: stub then arrow -->
+
+													<path d="M41.7, 21.7 l16.6,8.3 l12,-18 c -6,-10 -13,-13 -21,-5.3 Z" style="fill: #00A000"/>
+
+													<path d="M65,0 h25 l10,10 l5,-1.7 l-8.3,16.7 l-21.7,0 l6,-1.9 l-7,-10 Q67,-1 65,0 Z" style="fill: #00A000"/>
+
+										<!-- Bottom right: stub then arrow -->
+
+													<path d="M108.3,25 l-18.3,11.7 l10,18.3 c4,7.32 22.3,-4.38 18.3,-11.7 Z" style="fill: #00A000"/>
+
+													<path d="M90,58.3 v-6.6 l-11.7,16.6 l11.7,16.6 v-6.6 h12 c.1,.3 .3, .2 3.4,-4.2  l8.4,-16.8 q.5,.25 -2,1 Z" style="fill: #00A000"/>
+
+						<!-- Right base -->
+
+										<polygon points="148.7, 100 110.7, 100 104.4, 83.3 123.7, 50.3" style="fill: #00A000"/>
+
+
+
+			<!-- The D -->
+
+						<rect x="164.3" y="33.3" height="66.7" width="25" style="fill: #00A000"/>
+
+						<path d="M188.3, 33.3 h19.7 c31,0 31,66.7 0,66.7 h-19.7 v-16.7 h9.4 c14.3,0 14.3,-33.3 0,-33.3 h-9.4 Z" style="fill: #00A000"/>
+
+			<!-- The E -->
+
+						<rect x="240.9" y="33.3" height="66.7" width="25" style="fill: #00A000"/>
+
+						<rect x="240.9" y="33.3" height="16.7" width="58.3" style="fill: #00A000"/>
+
+						<rect x="240.9" y="58.3" height="16.7" width="50" style="fill: #00A000"/>
+
+						<rect x="240.9" y="83.3" height="16.7" width="58.3" style="fill: #00A000"/>
+
+	<!-- The P -->
+
+		<rect x="309.2" y="33.3" height="66.7" width="25" style="fill:#00A000" />
+
+		<path d="M333.2,33.3 h22 c23.1,0 23.1,49.7 0,49.7 h-22 v-18 h14.8 c8,0 8,-15 0,-15 h-14.8 Z" style="fill:#00A000"/>
+
+
+
+	<!-- The T -->
+
+		<rect x="372.7" y="33.3" height="16.7" width="58.3" style="fill: #00A000"/>
+
+		<rect x="389.3" y="49" height="51" width="25" style="fill: #00A000"/>
+
+</svg>
